@@ -37,15 +37,15 @@
     <pathCost>30</pathCost>
     <fillPercent>0.40</fillPercent>
     <defaultPlacingRot>South</defaultPlacingRot>
-	<staticSunShadowHeight>0.30</staticSunShadowHeight>
+    <staticSunShadowHeight>0.30</staticSunShadowHeight>
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
     <uiOrder>2420</uiOrder>
     <building>
       <isSittable>true</isSittable>
-	  <multiSittable>true</multiSittable>
+      <multiSittable>true</multiSittable>
       <destroySound>BuildingDestroyed_Soft_Small</destroySound>
     </building>
-	<size>(2,1)</size>
+    <size>(2,1)</size>
   </ThingDef>
 
 </Defs>
